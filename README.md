@@ -1,4 +1,6 @@
-Hi there! I'm Nirmal Panchal, a Full Stack Software Development student at Lambton College in Toronto. I have a strong passion for coding and creating innovative solutions. With expertise in both front-end and back-end technologies, I strive to build user-friendly and efficient web applications.
+###Hi there! 👋🏻
+
+I'm Nirmal Panchal, a Full Stack Software Development student at Lambton College in Toronto. I have a strong passion for coding and creating innovative solutions. With expertise in both front-end and back-end technologies, I strive to build user-friendly and efficient web applications.
 
 [![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirmal0210)](https://github.com/anuraghazra/github-readme-stats)
 
