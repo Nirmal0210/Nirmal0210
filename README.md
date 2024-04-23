@@ -1,9 +1,16 @@
-###Hi there! 👋🏻
+### Hi there 👋, My name is Nirmal Panchal
+#### Frontend Developer
+A passionate Frontend Developer with expertise in building dynamic and user-friendly web applications. With a strong foundation in **ReactJS, Angular, JavaScript, TypeScript, HTML, CSS, and Bootstrap**, I strive to create seamless and engaging user experiences.
 
-I'm Nirmal Panchal, a Full Stack Software Development student at Lambton College in Toronto. I have a strong passion for coding and creating innovative solutions. With expertise in both front-end and back-end technologies, I strive to build user-friendly and efficient web applications.
-
-[![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirmal0210)](https://github.com/anuraghazra/github-readme-stats)
-
+- 🔭 I’m currently working on Portfolio website using ReactJS 
+- 🌱 I’m currently learning ReactJS & Angular 
+- 👯 I’m looking to collaborate on Web dev projects with ReactJS/Angular 
+- 🤔 I’m looking for help with Code optimization 
+- 💬 Ask me about Front-end technologies (React, Angular, JS, TS, HTML, CSS, Bootstrap) 
+- 📫 How to reach me: Email: panchalnirmal210@gmail.com 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: Hiking, Movies
+  
 ### Skills
 
 #### Front-End
@@ -38,10 +45,14 @@ I'm Nirmal Panchal, a Full Stack Software Development student at Lambton College
 - SQL
 - MongoDB
 - Agile and Scrum Methodology
-- Adaptability
-- Conflict Resolution
-- Leadership
-- Problem-Solving
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Nirmal0210)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/nirmal0210)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nirmalpanchal2//)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Nirmal0210)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirmal0210)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Education
 
@@ -102,9 +113,3 @@ I'm Nirmal Panchal, a Full Stack Software Development student at Lambton College
 - Email: [panchalnirmal210@gmail.com](mailto:panchalnirmal210@gmail.com)
 - GitHub: [https://github.com/Nirmal0210](https://github.com/Nirmal0210)
 - LinkedIn: [www.linkedin.com/in/nirmalpanchal2](http://www.linkedin.com/in/nirmalpanchal2)
-
-This portfolio structure is written in Markdown format, which is compatible with GitHub's README files. You can create a new repository on GitHub and add this content to the README.md file. GitHub will automatically render the Markdown formatting, making it easy to showcase your portfolio.
-
-You can further customize this structure by adding more sections, such as certifications, publications, or any other relevant information you'd like to include. Additionally, you can style the portfolio using GitHub's Markdown flavors or by adding HTML and CSS directly to the repository.
-
-Feel free to modify and enhance this structure to best represent your skills, experiences, and achievements.
