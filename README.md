@@ -4,7 +4,7 @@ A passionate Frontend Developer with expertise in building dynamic and user-frie
 
 - 🔭 I’m currently working on Portfolio website using ReactJS 
 - 🌱 I’m currently learning ReactJS & Angular 
-- 👯 I’m looking to collaborate on Web dev projects with ReactJS/Angular 
+- 👯 I’m looking to collaborate on Web dev projects with Full Stack Development
 - 🤔 I’m looking for help with Code optimization 
 - 💬 Ask me about Front-end technologies (React, Angular, JS, TS, HTML, CSS, Bootstrap) 
 - 📫 How to reach me: Email: panchalnirmal210@gmail.com 
