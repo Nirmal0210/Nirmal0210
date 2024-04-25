@@ -1,7 +1,7 @@
 ### Hi there 👋, My name is Nirmal Panchal
 #### Frontend Developer
 A passionate Frontend Developer with expertise in building dynamic and user-friendly web applications. With a strong foundation in **ReactJS, Angular, JavaScript, TypeScript, HTML, CSS, and Bootstrap**, I strive to create seamless and engaging user experiences.
-[!Frontend Developer](https://github.com/Nirmal0210/Nirmal0210/blob/main/Nirmal%20-%20BG.png)
+![Frontend Developer](https://github.com/Nirmal0210/Nirmal0210/blob/main/Nirmal%20-%20BG.png)
 
 - 🔭 I’m currently working on Portfolio website using ReactJS 
 - 🌱 I’m currently learning ReactJS & Angular 
