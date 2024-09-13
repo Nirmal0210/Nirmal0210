@@ -8,14 +8,6 @@ A passionate Frontend Developer with expertise in building dynamic and user-frie
 
 ![Nirmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nirmal0210&show_icons=true&theme=transparent)
 
-# Nirmal Panchal  
-**Toronto, ON M2J 0G1**  
-**437-799-0210**  
-**Panchalnirmal210@gmail.com**  
-[LinkedIn](www.linkedin.com/in/nirmalpanchal2) | [GitHub](https://github.com/Nirmal0210)
-
----
-
 ## PROFESSIONAL SUMMARY
 Experienced Full Stack Developer with over 3 years of expertise in creating high-quality, performant web applications using modern technologies like React, TypeScript, Node.js, and Express.js. Adept at owning and driving features from inception to launch and collaborating with cross-functional teams to deliver exceptional full-stack solutions.
 
