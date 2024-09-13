@@ -62,29 +62,35 @@ Experienced Full Stack Developer with a strong foundation in **ReactJS, TypeScri
 
 ---
 
-## 👨‍💻 EXPERIENCE
+## **EXPERIENCE**
 
 **Full Stack Software Developer CO-OP**  
 *May 2024 – Aug 2024*  
-**MyRide901, Markham, ON**  
-- Improved application performance by 30% through optimized **Redux** state management.
-- Developed **RESTful APIs** and streamlined database interactions, reducing server response times.
+MyRide901, Markham, ON  
+- Optimized Redux state management, resulting in a 30% improvement in application performance.
+- Developed and integrated **RESTful APIs** to enhance functionality and streamline database interactions.
+- Addressed and resolved critical bugs, improving overall application stability and user satisfaction.
 
 **Frontend Developer**  
 *Sep 2022 – April 2024*  
-**Angrio Technologies, Ahmedabad, GJ**  
-- Enhanced web application performance by 25% using **ReactJS** and **AWS**.
-- Improved user engagement by 15% through feature development and UI enhancements.
+Angrio Technologies, Ahmedabad, GJ  
+- Enhanced web application performance by 25% using **ReactJS** and **AWS**, leading to faster load times and better user experience.
+- Developed new features and UI enhancements, resulting in a 15% increase in user engagement.
+- Collaborated with backend teams to integrate APIs and improve application functionality.
 
 **Frontend Developer**  
 *Feb 2022 – Sep 2022*  
-**Helicore Info PVT. LTD., Ahmedabad, GJ**  
-- Increased page load speed by 50% and user engagement by 20% through performance optimizations.
+Helicore Info PVT. LTD., Ahmedabad, GJ  
+- Implemented performance optimizations that improved page load speed by 50%.
+- Increased user engagement by 20% through design improvements and interactive features.
+- Led initiatives to address scalability issues, ensuring a smoother user experience across different devices.
 
 **Web Designer**  
 *May 2021 – Jan 2022*  
-**Freelance, Ahmedabad, GJ**  
-- Designed visually appealing websites, translating PSD mockups into clean **HTML** and **CSS**.
+Freelance, Ahmedabad, GJ  
+- Designed and developed visually appealing websites, converting PSD mockups into responsive **HTML/CSS**.
+- Utilized modern design principles to enhance usability and aesthetic appeal.
+- Managed multiple projects simultaneously, delivering high-quality results within tight deadlines.
 
 ---
 
