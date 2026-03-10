@@ -1,4 +1,4 @@
-![Frontend Developer](https://github.com/Nirmal0210/Nirmal0210/blob/main/Nirmal%20-%20BG.png)
+![Full Stack Developer](https://github.com/Nirmal0210/Nirmal0210/blob/main/Nirmal%20-%20BG.png)
 
 ## Hi there 👋, I'm Nirmal Panchal
 ### Full-Stack Developer | ReactJS, TypeScript, Node.js Enthusiast
